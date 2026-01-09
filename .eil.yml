@@ -1,11 +1,11 @@
 ---
-name: template-component
-description: A template for esp-idf-lib component
+name: mcp7940
+description: Driver for MCP7940 RTC module
 version: 1.0.0
 groups:
   - common
 code_owners:
-  - trombik
+  - QB4-dev
 depends:
   - freertos
 thread_safe: n/a
@@ -23,5 +23,5 @@ targets:
   - esp8266
 license: MIT
 copyrights:
-  - name: trombik
-    year: 2025
+  - name: QB4-dev
+    year: 2026
