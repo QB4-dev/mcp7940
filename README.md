@@ -1,10 +1,10 @@
-# esp-idf-lib/template-component
+# esp-idf-lib/mcp7940
 
 [![Build examples](https://github.com/esp-idf-lib/template-component/actions/workflows//build.yml/badge.svg)](https://github.com/esp-idf-lib/template-component/actions/workflows//build.yml)
 [![Build docs](https://github.com/esp-idf-lib/template-component/actions/workflows//build-docs.yml/badge.svg)](https://github.com/esp-idf-lib/template-component/actions/workflows//build-docs.yml)
 [![Validation](https://github.com/esp-idf-lib/template-component/actions/workflows//validate-component.yml/badge.svg)](https://github.com/esp-idf-lib/template-component/actions/workflows//validate-component.yml)
 
-A template for esp-idf-lib component.
+Driver for MCP7940 RTC module.
 
 * [Documentation](https://esp-idf-lib.github.io/template-component/)
 * [Repository](https://github.com/esp-idf-lib/template-component)
