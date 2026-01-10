@@ -1,21 +1,21 @@
 # esp-idf-lib/mcp7940
 
-[![Build examples](https://github.com/esp-idf-lib/template-component/actions/workflows//build.yml/badge.svg)](https://github.com/esp-idf-lib/template-component/actions/workflows//build.yml)
-[![Build docs](https://github.com/esp-idf-lib/template-component/actions/workflows//build-docs.yml/badge.svg)](https://github.com/esp-idf-lib/template-component/actions/workflows//build-docs.yml)
-[![Validation](https://github.com/esp-idf-lib/template-component/actions/workflows//validate-component.yml/badge.svg)](https://github.com/esp-idf-lib/template-component/actions/workflows//validate-component.yml)
+[![Build examples](https://github.com/esp-idf-lib/mcp7940/actions/workflows//build.yml/badge.svg)](https://github.com/esp-idf-lib/mcp7940/actions/workflows//build.yml)
+[![Build docs](https://github.com/esp-idf-lib/mcp7940/actions/workflows//build-docs.yml/badge.svg)](https://github.com/esp-idf-lib/mcp7940/actions/workflows//build-docs.yml)
+[![Validation](https://github.com/esp-idf-lib/mcp7940/actions/workflows//validate-component.yml/badge.svg)](https://github.com/esp-idf-lib/mcp7940/actions/workflows//validate-component.yml)
 
 Driver for MCP7940 RTC module.
 
-* [Documentation](https://esp-idf-lib.github.io/template-component/)
-* [Repository](https://github.com/esp-idf-lib/template-component)
-* [Issues](https://github.com/esp-idf-lib/template-component/issues)
+* [Documentation](https://esp-idf-lib.github.io/mcp7940/)
+* [Repository](https://github.com/esp-idf-lib/mcp7940)
+* [Issues](https://github.com/esp-idf-lib/mcp7940/issues)
 * [Discussions and questions](https://github.com/esp-idf-lib/core/discussions)
-* [Component page at the ESP Component Registry](https://components.espressif.com/components/esp-idf-lib/template-component)
+* [Component page at the ESP Component Registry](https://components.espressif.com/components/esp-idf-lib/mcp7940)
 
 ## Installation
 
 ```sh
-idf.py add-dependency esp-idf-lib/template-component
+idf.py add-dependency esp-idf-lib/mcp7940
 ```
 
 ## Support
