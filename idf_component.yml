@@ -21,10 +21,10 @@ dependencies:
 maintainers:
   - Jakub Turek <qb4.dev@gmail.com>
 url: https://github.com/esp-idf-lib/core
-repository: https://github.com/qb4-dev/mcp7940
-documentation: https://qb4-dev.github.io/mcp7940/
-issues: https://github.com/qb4-dev/mcp7940/issues
-discussion: https://github.com/qb4-dev/core/discussions
+repository: https://github.com/esp-idf-lib/mcp7940 
+documentation: https://esp-idf-lib.github.io/mcp7940/
+issues: https://github.com/esp-idf-lib/mcp7940/issues
+discussion: https://github.com/esp-idf-lib/core/discussions
 files:
   exclude:
     - docs/**/*
