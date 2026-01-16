@@ -1,5 +1,5 @@
 ---
-version: 1.0.1
+version: 1.0.2
 description: Driver for MCP7940 RTC module
 license: BSD-3
 targets:
