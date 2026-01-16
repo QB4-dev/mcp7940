@@ -14,7 +14,7 @@ jobs:
         uses: espressif/upload-components-ci-action@v2
         with:
           components: |
-            mcp7940: .
+            qb4-dev/mcp7940: .
           version: ${{ github.ref_name }}
           namespace: "espressif"
           api_token: ${{ secrets.ESP_TOKEN }}
