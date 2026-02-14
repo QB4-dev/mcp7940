@@ -13,4 +13,4 @@ jobs:
       api_token: ${{ secrets.ESP_TOKEN }}
     with:
       components: |
-        mcp4725:.
+        mcp7940:.
