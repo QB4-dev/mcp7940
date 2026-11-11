@@ -1,7 +1,7 @@
 ---
 name: mcp7940
 description: Driver for MCP7940 RTC module
-version: 1.0.2
+version: 1.0.3
 groups:
   - rtc
 code_owners:
